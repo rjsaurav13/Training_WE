@@ -1,0 +1,5 @@
+log/
+
+lib/my_*_lib.lib
+
+*.ts
