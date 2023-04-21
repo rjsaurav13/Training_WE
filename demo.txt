@@ -1,6 +1,15 @@
 Hello this is demo
 Hello
+<<<<<<< HEAD
 A
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+123
+=======
+>>>>>>> production
+>>>>>>> product
 A
 B
 =======
@@ -9,4 +18,7 @@ A
 =======
 A
 >>>>>>> main
+<<<<<<< HEAD
+>>>>>>> product
+=======
 >>>>>>> product
