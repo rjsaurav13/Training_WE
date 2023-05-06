@@ -17,9 +17,9 @@ public class Hello {
 		System.out.println("Enter number of items to be purchased: ");
 		int itval = scanner.nextInt();
 
-		for (int i = 0; i < itval; i++) {
-			int temp = scanner.nextInt();
-
+		for(int i=0;i<itval;i++) {
+			int temp=scanner.nextInt();
+			
 		}
 
 	}
